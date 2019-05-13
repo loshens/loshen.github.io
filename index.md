@@ -179,6 +179,10 @@ After a table is created, putting focus on that table will open up a toolbar for
 The full syntax for tables is described below, but it is not necessary to know the full syntax in detail as the markdown source code for tables is generated automatically by Typora.
 
 In markdown source code, they look like:
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ``` markdown
 | First Header  | Second Header |
